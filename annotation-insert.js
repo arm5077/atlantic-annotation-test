@@ -1,3 +1,5 @@
+// The core of the bookmarklet; replaced selected text with annotation markup and makes sure dependencies are included.
+
 (function(){
   
   // External scripts and styles
