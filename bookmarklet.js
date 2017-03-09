@@ -1,0 +1,1 @@
+$('body').append('<script src="https://s3.amazonaws.com/the-atlantic/annotations/annotation-insert.js"></script>')
