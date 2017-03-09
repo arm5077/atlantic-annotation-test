@@ -20,7 +20,7 @@ You can even create an annotation _within_ an annotation — though you should o
 ###Publish
 When you save your story, the annotation will come along.
 
-[!Published](assets/live_site.gif)
+![Published](assets/live_site.gif)
 
 ###Let Andrew know!
 Drop me a line when you've published a story with annotations. We want to keep track of them so we can install a permanent solution later, if these things catch on.
