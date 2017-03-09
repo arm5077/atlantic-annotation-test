@@ -1,5 +1,5 @@
 # The Atlantic's annotation bookmarklet hack
-We thinking adding annotations to Atlantic stories would be neat. Before we implement in our CMS, we want to make sure our readers and our reporters agree.
+We think adding annotations to Atlantic stories would be neat. But before we implement them in our CMS, we want to make sure our readers and our reporters agree.
 
 ## How to use it
 
