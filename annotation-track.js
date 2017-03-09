@@ -1,3 +1,4 @@
+// Tracks when a user clicks an annotation, logging it on a Google Sheet
 var instance_id = new Date().getTime().toString() + Math.round(Math.random() * 100);
 $(".annotation-link").each(function(i, annotationLink){
   $(annotationLink).one("click", function(){
