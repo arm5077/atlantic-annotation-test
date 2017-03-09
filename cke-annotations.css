@@ -1,1 +1,2 @@
+/* Props open the annotations when they're in the Atlantic's CMS, so editors can see them more easily. */
 .cke_editable .annotation { display: block !important }
