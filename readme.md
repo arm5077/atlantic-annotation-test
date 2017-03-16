@@ -27,4 +27,7 @@ Drop me a line when you've published a story with annotations. We want to keep t
 
 Here are the stories we've annotated so far:
 * [A Behavioral Economist Tries to Fix Email,](https://www.theatlantic.com/business/archive/2017/03/economist-email-less-painful/518934/) by Joe Pinsker
-
+* [The Transparency Bills That Would Gut the EPA,](https://www.theatlantic.com/science/archive/2017/03/how-to-gut-the-epa-in-the-name-of-honesty/519462/) by Ed Yong
+* [How to Kill a Snake When You're a Snake,](https://www.theatlantic.com/science/archive/2017/03/snake-vs-snake/519696/) by Ed Yong
+* [The GOP’s New Bill Is A Disaster For Genetics Research,](https://www.theatlantic.com/science/archive/2017/03/the-gops-new-bill-is-a-disaster-for-genetics-research/519645/) by Ed Yong
+* [Trump's Budget Plan in 17 Charts - The Atlantic, ](https://www.theatlantic.com/politics/archive/2017/03/the-concrete-cost-of-trump-military-budget/518193/) by Andrew McGill
